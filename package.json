@@ -1,0 +1,24 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaeedEGH23/echo-bot.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "bot",
+    "echo"
+  ],
+  "author": "Saeed Esameil Ghorbaninezhad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaeedEGH23/echo-bot/issues"
+  },
+  "homepage": "https://github.com/SaeedEGH23/echo-bot#readme"
+}
