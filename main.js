@@ -15,14 +15,4 @@ bot.on("message", (msg) => {
 
   // Echo the user's message
   bot.sendMessage(chatId, `Echo: ${msg.text}`);
-
-  bot.sendMessage(chatId, "What is your favorite color?", {
-    reply_markup: {
-      inline_keyboard: [
-        [{ text: "Red", callback_data: "color_red" }],
-        [{ text: "Blue", callback_data: "color_blue" }],
-        [{ text: "Green", callback_data: "color_green" }],
-      ],
-    },
-  });
 });
