@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/SaeedEGH23/echo-bot/issues"
   },
-  "homepage": "https://github.com/SaeedEGH23/echo-bot#readme"
+  "homepage": "https://github.com/SaeedEGH23/echo-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  }
 }
